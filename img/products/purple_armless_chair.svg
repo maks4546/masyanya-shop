@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="335.87067"
+   height="379.76721"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Owner\Desktop\SVG\Paul's Images"
+   sodipodi:docname="purple armless chair.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="708"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.27727358"
+     inkscape:cx="13.478802"
+     inkscape:cy="470.71956"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <g
+     id="Chair"
+     transform="translate(171.10341,189.59122)">
+    <path
+       sodipodi:nodetypes="cccccccc"
+       id="Cushion"
+       d="M -37.324236,173.92991 L 122.88795,95.415317 L 164.26726,-167.71465 C 116.79343,-176.39985 62.058834,-202.51089 27.397244,-180.44675 C -6.241326,-131.13271 -19.710816,-87.44789 -17.165096,-29.783626 C -43.730066,-39.6042 -136.35529,-20.171657 -159.34016,4.1686277 C -181.97499,45.901606 -168.81383,76.380896 -134.86157,118.11388 L -37.324236,173.92991 z "
+       style="fill:#644c62;fill-opacity:1;fill-rule:evenodd;stroke:#432d39;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       id="Lines"
+       d="M 16.051236,-162.83584 C 53.296526,-163.64342 95.405706,-158.69233 129.0423,-131.92436 M 85.528036,12.873104 L 128.29206,-129.67363 C 136.59113,-141.15421 148.1073,-161.16966 164.01114,-168.84786 M -63.020654,84.896713 C -14.004584,37.258497 35.011476,33.495312 84.027546,15.123842 M -167.30484,22.626301 C -132.54344,33.215482 -97.782054,50.865355 -63.020654,83.39622 C -41.062894,113.34235 -41.041494,145.28269 -40.513284,177.17696 M -18.756144,-29.140668 L 84.777786,13.62335 L 83.277296,117.15728"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#4b324b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="translate(284.34879,-7.6506401)"
+       id="Feet">
+      <path
+         id="path3206"
+         style="fill:#332429;fill-opacity:1;fill-rule:evenodd;stroke:#624b5d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -341.57583,171.43289 L -334.13785,188.79552 L -316.88219,197.32664 L -301.57688,187.74488 L -292.40248,164.59422 L -314.9724,177.92752 C -317.4921,180.09205 -320.22821,180.74165 -323.20506,179.70611 L -341.57583,171.43289 z M -422.67713,125.42171 L -414.26932,140.35977 L -401.62034,148.04229 L -390.92171,142.46107 L -405.63987,133.21002 L -422.67713,125.42171 z M -204.02426,120.04747 L -203.73876,123.71128 L -188.78644,131.87871 L -175.17833,124.96398 L -164.79326,102.93286 L -190.74509,115.83416 L -204.02426,120.04747 z " />
+      <path
+         style="fill:#332429;fill-opacity:1;fill-rule:evenodd;stroke:#624b5d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -316.78356,197.09758 L -316.91657,179.18267 M -402.49622,135.16936 L -401.37278,147.63353 M -186.84685,114.06707 L -188.55916,131.81546"
+         id="path3212"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+  </g>
+</svg>

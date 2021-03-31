@@ -1,0 +1,71 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+#carouselOffers {
+    min-height: 500px;
+}
+
+#carouselOffers img {
+    max-height: 450px;
+}
+
+.intro {
+    max-width: 400px;
+    margin-top: 150px;
+    text-align: center;
+}
+.card {
+    height: 100%;
+}
+
+.alert {
+    position: fixed;
+    top: 50px; 
+    width: 50%;
+    left: 25%;
+    z-index: 1051;
+}
+
+.btn {
+    padding: 0.75rem 0.7rem;
+}
+
+
+
+
+
+
+.end_site{
+    display: flex;
+    width: 100%;
+    background-color: rgb(51, 51, 51);
+}
+.end_site img{
+    height: 50px;
+    width: 100px;
+}
+.end_site p{
+    color: #0d6efd;
+    background-color:#0dcaf0;
+    border: 1px solid #0dcaf0;
+    border-radius: 4px;
+    padding: 5px;
+    margin-left: 20px;
+}
+
+.numbers{
+    display: flex;
+}
+.left-side{
+    padding-top: 50px;
+    width: 50%;
+}
+.right-side{
+    padding-top: 30px;
+    width: 50%;
+}
+
+
+
+
