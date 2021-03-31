@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "title": "Стіл",
+        "image": "t1.png",
+        "description": "Table",
+        "price": 49.99
+    },
+    {
+        "id": "2",
+        "title": "Стілець",
+        "image": "blue.png",
+        "description": "Chair",
+        "price": 19.99
+    },
+    {
+        "id": "3",
+        "title": "Стіл",
+        "image": "t2.png",
+        "description": "Table",
+        "price": 24.99
+    },
+    {
+        "id": "4",
+        "title": "Стіл",
+        "image": "t4.png",
+        "description": "Table",
+        "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Стілець",
+        "image": "482 .png",
+        "description": "Chair",
+        "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Стілець",
+        "image": "482 .png",
+        "description": "Chair",
+        "price": 34.99
+    },{
+        "id": "5",
+        "title": "Стілець",
+        "image": "482 .png",
+        "description": "Chair",
+        "price": 34.99
+    },{
+        "id": "5",
+        "title": "Стілець",
+        "image": "482 .png",
+        "description": "Chair",
+        "price": 34.99
+    },{
+        "id": "5",
+        "title": "Стілець",
+        "image": "482 .png",
+        "description": "Chair",
+        "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Стілець",
+        "image": "482 .png",
+        "description": "Chair",
+        "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Стілець",
+        "image": "482 .png",
+        "description": "Chair",
+        "price": 34.99
+    },
+    {
+        "id": "3",
+        "title": "Стіл",
+        "image": "t2.png",
+        "description": "Table",
+        "price": 24.99
+    }
+    
+]
